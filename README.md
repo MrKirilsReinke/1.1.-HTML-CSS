@@ -2,7 +2,7 @@
 
 ## Description
 
-The project consists of an HTML file (`index.html`) and a CSS file (`index.css`) that, when used together, define the structure, content, and styling of a website.
+The project consists of an HTML file (`index.html`) and a CSS file (`index.scss`) that, when used together, define the structure, content, and styling of a website.
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ npm start
 3. You can link the HTML file to the CSS file using the following code within the `<head>` section of your HTML document:
 
 ```html
-<link rel="stylesheet" type="text/css" href="index.scss">
+<link rel="stylesheet" href="index.scss">
 ```
 Make sure to specify the correct path to the CSS file.
 
