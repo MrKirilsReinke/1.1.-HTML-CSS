@@ -2,7 +2,7 @@
 
 ## Description
 
-The project consists of an HTML file (`index.html`) and a CSS file (`index.scss`) that, when used together, define the structure, content, and styling of a website.
+The project consists of an HTML file (`index.html`) and a CSS file (`styles.scss`) that, when used together, define the structure, content, and styling of a website.
 
 ## Table of Contents
 
@@ -51,11 +51,11 @@ npm start
 3. You can link the HTML file to the CSS file using the following code within the `<head>` section of your HTML document:
 
 ```html
-<link rel="stylesheet" href="index.scss">
+<link rel="stylesheet" href="styles.scss">
 ```
 Make sure to specify the correct path to the CSS file.
 
-### CSS File (`index.scss`)
+### CSS File (`styles.scss`)
 1. The CSS file provides styles for various elements on your web page.
 2. Link the CSS file to your HTML document, as described above.
 3. Apply the predefined styles by adding class names to your HTML elements according to the instructions within the CSS file.
@@ -66,7 +66,7 @@ Make sure to specify the correct path to the CSS file.
 * Structured layout for a webpage, including header, sections, images, buttons, testimonials, and footer.
 * Placeholders for content, images, and links that you can customize to match your project.
 
-### CSS File (`index.scss`)
+### CSS File (`styles.scss`)
 * Defines styles for various elements, such as headings, paragraphs, headers, sections, images, buttons, and more.
 * Offers flexibility for customization to match your project's design requirements.
 
