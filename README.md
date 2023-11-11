@@ -74,10 +74,6 @@ Make sure to specify the correct path to the CSS file.
 
 * The CSS file includes imported fonts from Google Fonts.
 
-## License
-
-This project is open-source and is available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for any purpose.
-
 ## How to Contribute
 
 Contributions to this project are welcome. To contribute, follow these steps:
