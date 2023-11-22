@@ -10,7 +10,6 @@ The project consists of an HTML file (`index.html`) and a CSS file (`styles.scss
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 
